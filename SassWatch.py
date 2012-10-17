@@ -30,6 +30,5 @@ class WatchCommand(sublime_plugin.TextCommand):
 
             # Run our batch file
             subprocess.Popen(['cmd', '/c', 'start', 'sasswatch.bat', sass_file_dir, sass_file, output_css_file], cwd=plugin_dir, shell=True)
-            #process.ProcessOpen(['cmd', '/c', 'start', 'sasswatch.bat', sass_file_dir, sass_file, output_css_file], cwd=plugin_dir)
 
         self.view.window().show_input_panel('CSS Output File (Relative or Absolute Path):', '', fileNameInput, None, None)
