@@ -2,6 +2,8 @@
 
 A [Sublime Text 2](http://www.sublimetext.com/) plugin for watching Sass files.
 
+Note: This only works for Windows machines at the moment. Mac & Linux coming soon.
+
 ## Manual installation
 
 Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clone this repository:
