@@ -1,2 +1,6 @@
 # Ignore compiled Python files
 *.pyc
+
+#Sublime Workspace file
+*.sublime-project
+*.sublime-workspace
