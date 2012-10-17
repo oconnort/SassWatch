@@ -14,7 +14,7 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clon
 
 Open a file with a SCSS extension and then launch the SassWatch command:
 
-Shortcut "Ctrl+Shift+P" 
+Shortcut `Ctrl+Shift+P`
 SassWatch: Watch Sass File
 
 Default key bindings:
