@@ -20,6 +20,6 @@ All functionality of the plugin is available in the `Tools` / `SassWatch` menu a
 
 # Information
 
-Source: https://github.com/condemil/Gist
+Source: https://github.com/oconnort/SassWatch
 
 Author: [Tom O'Connor](https://github.com/oconnort/)
