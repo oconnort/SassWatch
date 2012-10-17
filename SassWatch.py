@@ -26,7 +26,7 @@ class WatchCommand(sublime_plugin.TextCommand):
             index = activeFile.rfind("\\")
             sass_file = activeFile[(index+1): ]
             sass_file_dir = activeFile[ : index]
-            plugin_dir = os.path.join(sublime.packages_path(), 'User')
+            plugin_dir = os.path.join(sublime.packages_path(), 'SassWatch')
 
             # Run our batch file
             subprocess.Popen(['cmd', '/c', 'start', 'sasswatch.bat', sass_file_dir, sass_file, output_css_file], cwd=plugin_dir, shell=True)
