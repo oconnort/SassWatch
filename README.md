@@ -10,7 +10,10 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clon
 
 # Usage
 
-All functionality of the plugin is available in the `Tools` / `SassWatch` menu and in the command pallette.
+Open a file with a SCSS extension and then launch the SassWatch command:
+
+# Shortcut "Ctrl+Shift+P" 
+SassWatch: Watch Sass File
 
 # Default key bindings:
 
