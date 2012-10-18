@@ -2,11 +2,11 @@
 
 A [Sublime Text 2](http://www.sublimetext.com/) plugin for watching Sass files.
 
-Note: This only works for Windows machines at the moment. Mac & Linux coming soon.
+*Note: This only works for Windows machines at the moment. Mac & Linux coming soon.
 
-## Manual installation
+## Manual Installation
 
-Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clone this repository:
+Go to the "Packages" directory (`Preferences` / `Browse Packages…`), launch a terminal & then clone this repository:
 
     git clone git://github.com/oconnort/SassWatch
 
@@ -24,4 +24,5 @@ Open a file with a SCSS extension and then launch the SassWatch command:
 ## Information
 
 Source: https://github.com/oconnort/SassWatch
+
 Author: [Tom O'Connor](https://github.com/oconnort/)
