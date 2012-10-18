@@ -10,21 +10,18 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clon
 
     git clone git://github.com/oconnort/SassWatch
 
-# Usage
+## Usage
 
 Open a file with a SCSS extension and then launch the SassWatch command:
 
-Shortcut `Ctrl+Shift+P`
-SassWatch: Watch Sass File
+### Command Palete (`Ctrl+Shift+P`)
+	SassWatch: Watch Sass File
 
-Default key bindings:
+### Default key bindings:
 
-## Watch Current Sass File
+	Windows: `Ctrl+ALT+W`
 
-* Windows and Linux: `Ctrl+ALT+W`
-
-# Information
+## Information
 
 Source: https://github.com/oconnort/SassWatch
-
 Author: [Tom O'Connor](https://github.com/oconnort/)
